@@ -7,6 +7,7 @@ Contains:
 - Parlgov Election Data (view_election)
 - PopuList 3.0 for populist country classification
 - Codebooks from 2020 and 2010 ISSP Environmental modules
+- Bibliography for all packages used in R by me as well as by antigravity
 
 note: If BaseModel code is run at once, output will correspond to RW7 (parties with a 7 or more threshold on left_right scale) 
 
